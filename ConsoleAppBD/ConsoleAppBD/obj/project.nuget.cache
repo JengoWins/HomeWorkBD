@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "j7W+sCOSXxMDiDnqSYF6pQ56eQDeV0uhEgoy+9Ga1UQZJtT/qy2GsPJGIeL7wI79WoB8PL2aZJeTRgaaxi6qhQ==",
+  "success": true,
+  "projectFilePath": "D:\\C\\ConsoleAppBD\\ConsoleAppBD\\ConsoleAppBD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\unrea\\.nuget\\packages\\freesql\\3.2.812\\freesql.3.2.812.nupkg.sha512",
+    "C:\\Users\\unrea\\.nuget\\packages\\freesql.provider.odbc\\3.2.812\\freesql.provider.odbc.3.2.812.nupkg.sha512",
+    "C:\\Users\\unrea\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\unrea\\.nuget\\packages\\system.data.odbc\\8.0.0\\system.data.odbc.8.0.0.nupkg.sha512",
+    "C:\\Users\\unrea\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\unrea\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\unrea\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\unrea\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\unrea\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

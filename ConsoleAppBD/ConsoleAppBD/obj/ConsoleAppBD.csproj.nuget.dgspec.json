@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C\\ConsoleAppBD\\ConsoleAppBD\\ConsoleAppBD.csproj": {}
+  },
+  "projects": {
+    "D:\\C\\ConsoleAppBD\\ConsoleAppBD\\ConsoleAppBD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C\\ConsoleAppBD\\ConsoleAppBD\\ConsoleAppBD.csproj",
+        "projectName": "ConsoleAppBD",
+        "projectPath": "D:\\C\\ConsoleAppBD\\ConsoleAppBD\\ConsoleAppBD.csproj",
+        "packagesPath": "C:\\Users\\unrea\\.nuget\\packages\\",
+        "outputPath": "D:\\C\\ConsoleAppBD\\ConsoleAppBD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\unrea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FreeSql.Provider.Odbc": {
+              "target": "Package",
+              "version": "[3.2.812, )"
+            },
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
